@@ -32,3 +32,4 @@
 - Streamlines your file organization process with **minimal effort**.
 - Boosts productivity by allowing you to quickly organize large volumes of media files.
 - Fully customizable to fit different media storage needs.
+
